@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "extensible-handeye-calibration"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "opencv-contrib-python>=4.7", "scipy>=1.10"]
+
+[project.scripts]
+handeye = "handeye.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

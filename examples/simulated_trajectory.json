@@ -1,0 +1,494 @@
+{
+  "version": 1,
+  "description": "Synthetic example; do not send to a real robot",
+  "joint_names": [
+    "joint1",
+    "joint2",
+    "joint3",
+    "joint4",
+    "joint5",
+    "joint6"
+  ],
+  "segments": [
+    {
+      "name": "pose_1",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 0
+    },
+    {
+      "name": "pose_2",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.01,
+            0.01,
+            0.01,
+            0.01,
+            0.01,
+            0.01
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 1
+    },
+    {
+      "name": "pose_3",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.02,
+            0.02,
+            0.02,
+            0.02,
+            0.02,
+            0.02
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 2
+    },
+    {
+      "name": "pose_4",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.03,
+            0.03,
+            0.03,
+            0.03,
+            0.03,
+            0.03
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 3
+    },
+    {
+      "name": "pose_5",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.04,
+            0.04,
+            0.04,
+            0.04,
+            0.04,
+            0.04
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 4
+    },
+    {
+      "name": "pose_6",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.05,
+            0.05,
+            0.05,
+            0.05,
+            0.05,
+            0.05
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 5
+    },
+    {
+      "name": "pose_7",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.06,
+            0.06,
+            0.06,
+            0.06,
+            0.06,
+            0.06
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 6
+    },
+    {
+      "name": "pose_8",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.07,
+            0.07,
+            0.07,
+            0.07,
+            0.07,
+            0.07
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 7
+    },
+    {
+      "name": "pose_9",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.08,
+            0.08,
+            0.08,
+            0.08,
+            0.08,
+            0.08
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 8
+    },
+    {
+      "name": "pose_10",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.09,
+            0.09,
+            0.09,
+            0.09,
+            0.09,
+            0.09
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 9
+    },
+    {
+      "name": "pose_11",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 10
+    },
+    {
+      "name": "pose_12",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.11,
+            0.11,
+            0.11,
+            0.11,
+            0.11,
+            0.11
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "train",
+      "example_sample_index": 11
+    },
+    {
+      "name": "pose_13",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.12,
+            0.12,
+            0.12,
+            0.12,
+            0.12,
+            0.12
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "validation",
+      "example_sample_index": 12
+    },
+    {
+      "name": "pose_14",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.13,
+            0.13,
+            0.13,
+            0.13,
+            0.13,
+            0.13
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "validation",
+      "example_sample_index": 13
+    },
+    {
+      "name": "pose_15",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.14,
+            0.14,
+            0.14,
+            0.14,
+            0.14,
+            0.14
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "validation",
+      "example_sample_index": 14
+    },
+    {
+      "name": "pose_16",
+      "waypoints": [
+        {
+          "time_from_start_s": 0.0,
+          "joint_positions_rad": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "time_from_start_s": 1.0,
+          "joint_positions_rad": [
+            0.15,
+            0.15,
+            0.15,
+            0.15,
+            0.15,
+            0.15
+          ]
+        }
+      ],
+      "capture": true,
+      "role": "validation",
+      "example_sample_index": 15
+    }
+  ]
+}
